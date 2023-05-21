@@ -1,0 +1,16 @@
+.div>h3{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 15px;
+    flex-direction: row;
+    border-radius: 20px;
+    background: #efefef;
+    margin: 10px;
+}
+.paraSection{
+    display: flex;
+    font-weight: bold;
+}
+.paraSection>img{
+    width: 50%;
+}
